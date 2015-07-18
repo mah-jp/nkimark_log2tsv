@@ -102,11 +102,11 @@ exit;
 
 =head1 NAME
 
-nkimark_log2tsv.pl - NetKids iMark Log Converter
+nkimark_log2tsv.pl - Log Converter for NetKids iMark
 
 =head1 VERSION
 
-ver.20150625
+ver.20150719
 
 =head1 DESCRIPTION
 
@@ -118,7 +118,7 @@ NetKids iMarkが保存する生ログのファイルを, TSV/CSV形式のファ�
 
 =head1 USAGE
 
-perl nkimark_log2tsv.pl -s tsv < original.log > original.tsv
+nkimark_log2tsv.pl -s tsv < original.log > original.tsv
 
 =head2 OPTION
 

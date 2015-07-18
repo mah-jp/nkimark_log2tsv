@@ -171,7 +171,7 @@ tsv_splitter.pl - TSV/CSV File Splitter
 
 =head1 VERSION
 
-ver.20150626
+ver.20150719
 
 =head1 DESCRIPTION
 
@@ -199,9 +199,9 @@ TSV/CSVファイルを読み込み, 指定の行数毎に,
 
 =head1 USAGE
 
-例a) perl tsv_splitter.pl -i filename.tsv -l 100000 -h 0 -e 0
+例a) tsv_splitter.pl -i filename.tsv -l 100000 -h 0 -e 0
 
-例b) perl tsv_splitter.pl -i filename.tsv -d -h 1 -e 1
+例b) tsv_splitter.pl -i filename.tsv -d -h 1 -e 1
 
 分割ファイルが, 読み込みファイルと同じディレクトリに保存されます.
 

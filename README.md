@@ -21,4 +21,5 @@ USAGE
 AUTHOR
 ------
 
-大久保 正彦 (Masahiko OHKUBO) <[ohkubo.masahiko@icraft.jp](mailto:ohkubo.masahiko@icraft.jp)> <[https://twitter.com/mah_jp](https://twitter.com/mah_jp)>
+大久保 正彦 (Masahiko OHKUBO) <[mah@remoteroom.jp](mailto:mah@remoteroom.jp)> <[https://twitter.com/mah_jp](https://twitter.com/mah_jp)>
+- 勤務先: アイクラフト株式会社 <[http://www.icraft.jp/](http://www.icraft.jp/)>

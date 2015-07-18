@@ -6,7 +6,7 @@ What is this?
 
 サーバ監視ツール『[NetKids iMark](http://www.istinc.co.jp/product/net/nki.html)』が保存するログファイル (生ログ) を、TSV/CSV形式のテキストファイル、またはExcel形式のデータファイル (.xlsx) に変換するためのPerlスクリプト一式です。
 
-作者が勤務先の業務にて作成し、実際に使用しているツールを公開しています。
+作者が勤務先の業務にて作成し実際に使用しているツールを、会社方針 (対外発信) に基づいてGitHubで公開しています。
 
 USAGE
 -----

@@ -120,7 +120,7 @@ TSV/CSV形式のファイルに変換します。
 
 =head1 USAGE
 
-nkimark_log2tsv.pl -s tsv < NKIMARKyymm.log > NKIMARKyymm.tsv
+nkimark_log2tsv.pl -s tsv < NKIMARKyymm.LOG > NKIMARKyymm.tsv
 
 =head2 OPTION
 
@@ -132,7 +132,9 @@ nkimark_log2tsv.pl -s tsv < NKIMARKyymm.log > NKIMARKyymm.tsv
 
 =head1 AUTHOR
 
-大久保 正彦 (Masahiko OHKUBO) <ohkubo.masahiko@icraft.jp> <https://twitter.com/mah_jp>
+大久保 正彦 (Masahiko OHKUBO) <mah@remoteroom.jp> <https://twitter.com/mah_jp>
+
+勤務先: アイクラフト株式会社 <http://www.icraft.jp/>
 
 =head1 COPYRIGHT AND LICENSE
 

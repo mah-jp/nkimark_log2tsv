@@ -90,7 +90,7 @@ $ cat <csv filename> | tsv2excel_mah.pl <output filename>
 
 =head1 AUTHOR
 
-Masahiko OHKUBO <ohkubo.masahiko@icraft.jp> <https://twitter.com/mah_jp>
+大久保 正彦 (Masahiko OHKUBO) <ohkubo.masahiko@icraft.jp> <https://twitter.com/mah_jp>
 
 =head1 COPYRIGHT AND LICENSE
 

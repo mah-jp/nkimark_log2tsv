@@ -175,19 +175,19 @@ ver.20150719
 
 =head1 DESCRIPTION
 
-TSV/CSVファイルを読み込み, 指定の行数毎に,
+TSV/CSVファイルを読み込み、指定の行数毎に、
 
-またはTSV/CSV形式の第一カラムを「YYYY/MM/DD」形式とみなした場合の日付毎に,
+またはTSV/CSV形式の第一カラムを「YYYY/MM/DD」形式とみなした場合の日付毎に、
 
-分割した内容を複数のファイルに保存します.
+分割した内容を複数のファイルに保存します。
 
-保存形式として, Excel形式も選択できます.
+保存形式として、Excel形式も選択できます。
 
-約100万行を超えるTSV/CSVファイルはExcelで読み込めず,
+約100万行を超えるTSV/CSVファイルはExcelで読み込めず、
 
-そのような場合に必要なファイル分割を楽に行うためのものです.
+そのような場合に必要なファイル分割を楽に行うためのものです。
 
-オプション指定により,
+オプション指定により、
 
 =over
 
@@ -199,11 +199,11 @@ TSV/CSVファイルを読み込み, 指定の行数毎に,
 
 =head1 USAGE
 
-例a) tsv_splitter.pl -i filename.tsv -l 100000 -h 0 -e 0
+例a) tsv_splitter.pl -i NKIMARKyymm.tsv -l 100000 -h 0 -e 0
 
-例b) tsv_splitter.pl -i filename.tsv -d -h 1 -e 1
+例b) tsv_splitter.pl -i NKIMARKyymm.tsv -d -h 1 -e 1
 
-分割ファイルが, 読み込みファイルと同じディレクトリに保存されます.
+分割ファイルが、読み込みファイルと同じディレクトリに保存されます。
 
 =over
 
@@ -229,7 +229,7 @@ TSV/CSVファイルを読み込み, 指定の行数毎に,
 
 =head1 AUTHOR
 
-Masahiko OHKUBO <ohkubo.masahiko@icraft.jp> <https://twitter.com/mah_jp>
+大久保 正彦 (Masahiko OHKUBO) <ohkubo.masahiko@icraft.jp> <https://twitter.com/mah_jp>
 
 =head1 COPYRIGHT AND LICENSE
 

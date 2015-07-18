@@ -110,15 +110,17 @@ ver.20150719
 
 =head1 DESCRIPTION
 
-NetKids iMarkが保存する生ログのファイルを, TSV/CSV形式のファイルに変換します.
+サーバ監視ツール『NetKids iMark』が保存する生ログのファイルを、
 
-標準入力/標準出力のパイプとして動作します.
+TSV/CSV形式のファイルに変換します。
 
-対応している生ログの形式は, ソースファイルを参照してください.
+標準入力/標準出力のパイプとして動作します。
+
+対応している生ログの形式は、ソースファイルを参照してください。
 
 =head1 USAGE
 
-nkimark_log2tsv.pl -s tsv < original.log > original.tsv
+nkimark_log2tsv.pl -s tsv < NKIMARKyymm.log > NKIMARKyymm.tsv
 
 =head2 OPTION
 
@@ -130,7 +132,7 @@ nkimark_log2tsv.pl -s tsv < original.log > original.tsv
 
 =head1 AUTHOR
 
-Masahiko OHKUBO <ohkubo.masahiko@icraft.jp> <https://twitter.com/mah_jp>
+大久保 正彦 (Masahiko OHKUBO) <ohkubo.masahiko@icraft.jp> <https://twitter.com/mah_jp>
 
 =head1 COPYRIGHT AND LICENSE
 

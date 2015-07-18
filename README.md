@@ -11,11 +11,11 @@ What is this?
 USAGE
 -----
 
-次のように2ステップで使います。必要となるPerlモジュールは動作環境にインストールしておいてください。
+次のように2ステップで使います。必要となるPerlモジュールは、動作環境にインストールしておいてください。
 
-1. 生ログをTSV形式の1ファイルに変換:
+1. NetKids iMarkの生ログをTSV形式の1ファイルに変換:
 	- nkimark_log2tsv.pl -s tsv < NKIMARKyymm.log > NKIMARKyymm.tsv
-2. TSVファイルを日付別に分割してExcelファイルに変換:
+2. 上記のTSVファイルを日付別に分割してExcelファイルに変換:
 	- tsv_splitter.pl -i NKIMARKyymm.tsv -d -h 1 -e 1
 
 AUTHOR

@@ -86,7 +86,7 @@ https://github.com/smeghead/tsv2excel/blob/master/tsv2excel.pl
 
 =head1 USAGE
 
-$ cat <csv filename> | tsv2excel_mah.pl <output filename>
+cat <csv filename> | tsv2excel_mah.pl <output filename>
 
 =head1 AUTHOR
 

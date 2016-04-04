@@ -43,7 +43,8 @@ my $regex_core_ping = 'Ping応答時間';
 my $regex_core_snmpv2 = 'SNMPV2データ取得\_(\S+)';
 my $regex_core_httptime = 'HTTP応答時間\_(\S+)';
 my $regex_core_httpcode = 'HTTP応答コード\_(\S+)';
-my $regex_core_noticeerror = '(通知エラー：ﾃﾝﾌﾟﾚｰﾄ型ﾒｰﾙ送信 が行えません. ファイルが見つかりません)';
+#my $regex_core_noticeerror = '(通知エラー：ﾃﾝﾌﾟﾚｰﾄ型ﾒｰﾙ送信 が行えません. ファイルが見つかりません)';
+my $regex_core_noticeerror = '(通知エラー：ﾃﾝﾌﾟﾚｰﾄ型ﾒｰﾙ送信 が行えません. \S+)';
 
 my $count = 1;
 my $error = 0;

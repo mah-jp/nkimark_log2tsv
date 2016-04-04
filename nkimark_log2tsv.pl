@@ -107,7 +107,7 @@ nkimark_log2tsv.pl - Log Converter for NetKids iMark
 
 =head1 VERSION
 
-ver.20150719
+ver.20160404
 
 =head1 DESCRIPTION
 
@@ -139,7 +139,7 @@ nkimark_log2tsv.pl -s tsv < NKIMARKyymm.LOG > NKIMARKyymm.tsv
 
 =head1 COPYRIGHT AND LICENSE
 
-This software is copyright (c) 2015 by Masahiko OHKUBO.
+This software is copyright (c) 2016 by Masahiko OHKUBO.
 
 This is free software; you can redistribute it and/or modify it under the same terms as the Perl 5 programming language system itself.
 

@@ -1,5 +1,5 @@
-nkimark_log2tsv - Log Converter for NetKids iMark
-=================================================
+nkimark_log2tsv.pl - Log Converter for NetKids iMark
+====================================================
 
 What is this?
 -------------

@@ -4,8 +4,6 @@
 
 サーバ監視ツール『[NetKids iMark](http://www.istinc.co.jp/product/net/nki.html)』が保存するログファイル (生ログ) を、TSV/CSV形式のテキストファイル、またはExcel形式のデータファイル (.xlsx) に変換するためのPerlスクリプト一式です。
 
-作者が勤務先の業務にて作成し実際に使用しているツールを、情報共有・対外発信を推奨している会社方針に基づき、GitHubで公開しています。
-
 ## USAGE
 
 次のように2ステップで使います。必要となるPerlモジュールは、動作環境にインストールしておいてください。
@@ -18,7 +16,6 @@
 ## AUTHOR
 
 大久保 正彦 (Masahiko OHKUBO) <[mah@remoteroom.jp](mailto:mah@remoteroom.jp)> <[https://twitter.com/mah_jp](https://twitter.com/mah_jp)>
-- 勤務先: アイクラフト株式会社 <[http://www.icraft.jp/](http://www.icraft.jp/)>
 
 ## COPYRIGHT and LICENSE
 

@@ -231,8 +231,6 @@ TSV/CSVファイルを読み込み、指定の行数毎に、
 
 大久保 正彦 (Masahiko OHKUBO) <mah@remoteroom.jp> <https://twitter.com/mah_jp>
 
-勤務先: アイクラフト株式会社 <http://www.icraft.jp/>
-
 =head1 COPYRIGHT AND LICENSE
 
 This software is copyright (c) 2015 by Masahiko OHKUBO.
